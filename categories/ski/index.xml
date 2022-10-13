@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ski on Kikir Art Collection</title>
-    <link>/categories/ski/</link>
+    <link>https://kikirartcollection.github.io/categories/ski/</link>
     <description>Recent content in ski on Kikir Art Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 09:58:35 +0800</lastBuildDate><atom:link href="/categories/ski/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 09:58:35 +0800</lastBuildDate><atom:link href="https://kikirartcollection.github.io/categories/ski/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_test</title>
-      <link>/post/first_test/</link>
+      <link>https://kikirartcollection.github.io/post/first_test/</link>
       <pubDate>Thu, 13 Oct 2022 09:58:35 +0800</pubDate>
       
-      <guid>/post/first_test/</guid>
+      <guid>https://kikirartcollection.github.io/post/first_test/</guid>
       <description>today I am happy, and you?</description>
     </item>
     
     <item>
       <title>Tags plugins showcase</title>
-      <link>/post/tags-plugins-showcase/</link>
+      <link>https://kikirartcollection.github.io/post/tags-plugins-showcase/</link>
       <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/tags-plugins-showcase/</guid>
+      <guid>https://kikirartcollection.github.io/post/tags-plugins-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.&lt;/p&gt;</description>
     </item>
     

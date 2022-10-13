@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CommunityCharity on Kikir Art Collection</title>
-    <link>/communitycharity/</link>
+    <link>https://kikirartcollection.github.io/communitycharity/</link>
     <description>Recent content in CommunityCharity on Kikir Art Collection</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/communitycharity/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kikirartcollection.github.io/communitycharity/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

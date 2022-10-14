@@ -21,8 +21,7 @@ categories:&lt;/h2&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;disqusIdentifier: 111&lt;/p&gt;
-&lt;p&gt;clearReading: true
-thumbnailImage: test2.png
+&lt;p&gt;thumbnailImage: test2.png
 thumbnailImagePosition: top
 autoThumbnailImage: yes
 metaAlignment: center

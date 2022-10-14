@@ -20,41 +20,7 @@ aliases = ["migrate-from-jekyl"]
 image = "test2.png"
 +++
 
----
-date: 2022-10-13T09:58:35+08:00
-draft: false
-categories:
-- 
-  
-- 
-  
-- 
-
-disqusIdentifier: 111
-
-thumbnailImage: test2.png
-thumbnailImagePosition: top
-autoThumbnailImage: yes
-metaAlignment: center
-coverImage: image_test.png
-coverCaption: "A beautiful sunrise"
-coverMeta: out
-coverSize: full
-coverImage: 
-gallery:
-- /images/test1.png "New York"
-- /image_test.png "Paris"
-- /images/test1.png "Dubai"
-- /images/test1.png "Sidney"
-- https://lh3.googleusercontent.com/pw/AL9nZEUVUetFheCMwjA4P3UxIk-H2uvoDlKPYV-xWSHGO4psHmRs4VxfId7Rm1uY8uO7wyLjVZvnTHaB7TYy1X1xKoyj7cYK3w9FY1b1E_NfNh9zbCRbK-FKNC70IfoLcS-V9oe2gD0YDsMpLD0OTb7zjQ=w743-h507-no?authuser=0 "Sidney"
-comments: false
-showTags: true
-showPagination: true
-showSocial: true
-showDate: true
-summary: "today I am happy, and you?"
----
-
+22222222222222
 today I am happy. it's a happy day.
 
 这是一个一级标题

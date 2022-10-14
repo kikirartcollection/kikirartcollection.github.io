@@ -32,7 +32,6 @@ categories:
 
 disqusIdentifier: 111
 
-clearReading: true
 thumbnailImage: test2.png
 thumbnailImagePosition: top
 autoThumbnailImage: yes
